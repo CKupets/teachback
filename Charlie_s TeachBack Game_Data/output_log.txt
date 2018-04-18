@@ -1,0 +1,93 @@
+Initialize engine version: 5.1.3f1 (b0a23b31c3d8)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 770 (ID=0x1184)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Charlie\Desktop\TeachBack\Charlie's TeachBack Game_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Charlie\Desktop\TeachBack\Charlie's TeachBack Game_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Charlie\Desktop\TeachBack\Charlie's TeachBack Game_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Charlie\Desktop\TeachBack\Charlie's TeachBack Game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Charlie\Desktop\TeachBack\Charlie's TeachBack Game_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Charlie\Desktop\TeachBack\Charlie's TeachBack Game_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Charlie\Desktop\TeachBack\Charlie's TeachBack Game_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Charlie\Desktop\TeachBack\Charlie's TeachBack Game_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Charlie\Desktop\TeachBack\Charlie's TeachBack Game_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Charlie\Desktop\TeachBack\Charlie's TeachBack Game_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Charlie\Desktop\TeachBack\Charlie's TeachBack Game_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Charlie\Desktop\TeachBack\Charlie's TeachBack Game_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Charlie\Desktop\TeachBack\Charlie's TeachBack Game_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.131 seconds
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Charlie\Desktop\TeachBack\Charlie's TeachBack Game_Data\Managed\System.dll (this message is harmless)
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 30.153236 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 593.
+Total: 0.279271 ms (FindLiveObjects: 0.014460 ms CreateObjectMapping: 0.022594 ms MarkObjects: 0.228659 ms  DeleteObjects: 0.003916 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.449984 ms
+
+Unloading 165 unused Assets to reduce memory usage. Loaded Objects now: 331.
+Total: 0.258484 ms (FindLiveObjects: 0.036452 ms CreateObjectMapping: 0.013858 ms MarkObjects: 0.084052 ms  DeleteObjects: 0.124120 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.208474 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 593.
+Total: 0.152740 ms (FindLiveObjects: 0.012653 ms CreateObjectMapping: 0.018979 ms MarkObjects: 0.107852 ms  DeleteObjects: 0.012653 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.407911 ms
+
+Unloading 165 unused Assets to reduce memory usage. Loaded Objects now: 331.
+Total: 0.243120 ms (FindLiveObjects: 0.012351 ms CreateObjectMapping: 0.013858 ms MarkObjects: 0.089475 ms  DeleteObjects: 0.126832 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.214198 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 593.
+Total: 0.172021 ms (FindLiveObjects: 0.012954 ms CreateObjectMapping: 0.018979 ms MarkObjects: 0.113877 ms  DeleteObjects: 0.016268 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.357797 ms
+
+Unloading 165 unused Assets to reduce memory usage. Loaded Objects now: 331.
+Total: 0.274753 ms (FindLiveObjects: 0.035549 ms CreateObjectMapping: 0.014159 ms MarkObjects: 0.093994 ms  DeleteObjects: 0.130748 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.208173 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 593.
+Total: 0.181059 ms (FindLiveObjects: 0.028318 ms CreateObjectMapping: 0.029222 ms MarkObjects: 0.109961 ms  DeleteObjects: 0.013255 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.487144 ms
+
+Unloading 165 unused Assets to reduce memory usage. Loaded Objects now: 331.
+Total: 0.253965 ms (FindLiveObjects: 0.013556 ms CreateObjectMapping: 0.013556 ms MarkObjects: 0.093693 ms  DeleteObjects: 0.133158 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.261497 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 593.
+Total: 0.169009 ms (FindLiveObjects: 0.012954 ms CreateObjectMapping: 0.018979 ms MarkObjects: 0.113877 ms  DeleteObjects: 0.013255 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.400681 ms
+
+Unloading 165 unused Assets to reduce memory usage. Loaded Objects now: 331.
+Total: 0.258183 ms (FindLiveObjects: 0.023799 ms CreateObjectMapping: 0.013556 ms MarkObjects: 0.093693 ms  DeleteObjects: 0.126229 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.176239 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 331.
+Total: 0.177745 ms (FindLiveObjects: 0.016870 ms CreateObjectMapping: 0.022896 ms MarkObjects: 0.135568 ms  DeleteObjects: 0.002410 ms)
+
